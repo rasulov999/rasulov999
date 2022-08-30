@@ -1,7 +1,5 @@
 ### Hi there 👋, Abdurasul
 #### Development
-![Development](https://upload.wikimedia.org/wikipedia/commons/5/5b/Scott_Adkins_%2835267457581%29.jpg)
-
 I am Flutter Developer!
 
 Skills: FLUTTER / DART / 
