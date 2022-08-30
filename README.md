@@ -15,6 +15,4 @@ Skills: FLUTTER / DART /
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasulov999&show_icons=true&theme=github_dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rasulov999&theme=github_dark&layout=compact)](https://github.com/rasulov999/github-readme-stats)
-
 ![Profile views](https://gpvc.arturio.dev/rasulov999)  
