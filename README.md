@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abdurasul</h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=+++++++++++Hi+I+am+Abdurasul)](https://git.io/typing-svg)
 <h3 align="center">Development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulov999&label=Profile%20views&color=0e75b6&style=flat" alt="rasulov999" /> </p>
