@@ -2,7 +2,7 @@
 
 <h3 align="center">Development</h3>
 
-![](https://newswithoutpolitics.com/wp-content/uploads/2021/08/earth.gif).
+![](https://pbs.twimg.com/profile_banners/44196397/1576183471/1080x360).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulov999&label=Profile%20views&color=0e75b6&style=flat" alt="rasulov999" /> </p>
 
