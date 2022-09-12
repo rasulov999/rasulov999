@@ -2,7 +2,7 @@
 
 <h3 align="center">Development</h3>
 
-![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQg9gdF55wPIO9h2wloqCWqD5MoYKxetCBQqmZpss5DjisN7m3-RU4S5tMOJMd9fASo-As&usqp=CAU)
+![](https://pbs.twimg.com/profile_banners/44196397/1576183471/1080x360)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulov999&label=Profile%20views&color=0e75b6&style=flat" alt="rasulov999" /> </p>
 
