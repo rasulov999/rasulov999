@@ -2,6 +2,8 @@
 
 <h3 align="center">Development</h3>
 
+https://giphy.com/gifs/scaler-official-monday-computer-laptop-scZPhLqaVOM1qG4lT9
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulov999&label=Profile%20views&color=0e75b6&style=flat" alt="rasulov999" /> </p>
 
 <p align="left"> <a href="https://twitter.com/ab44434390" target="blank"><img src="https://img.shields.io/twitter/follow/ab44434390?logo=twitter&style=for-the-badge" alt="ab44434390" /></a> </p>
