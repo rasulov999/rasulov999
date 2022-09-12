@@ -2,7 +2,7 @@
 
 <h3 align="center">Development</h3>
 
-![](https://c8.alamy.com/comp/2AH77DH/computer-programming-word-concepts-banner-coding-and-computer-science-software-and-app-development-presentation-isolated-lettering-typography-idea-2AH77DH.jpg).
+![](https://pbs.twimg.com/profile_banners/44196397/1576183471/1080x360).
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rasulov999&label=Profile%20views&color=0e75b6&style=flat" alt="rasulov999" /> </p>
 
