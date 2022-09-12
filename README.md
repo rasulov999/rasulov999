@@ -21,7 +21,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rasulov999&theme=github_dark&show_icons=true)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasulov999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rasulov999" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasulov999&theme=github_dark&show_icons=true&locale=en&layout=compact" alt="rasulov999" /></p>
 
 
 <h3 align="left">Support:</h3>
