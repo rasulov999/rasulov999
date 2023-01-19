@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=100&width=440&lines=Hi I am Abdurasul](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=100&width=440&lines=Hi+There!)](https://git.io/typing-svg)
 <h3 align="center">Development</h3>
 
 ![](https://pbs.twimg.com/profile_banners/44196397/1576183471/1080x360)
